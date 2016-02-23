@@ -7,3 +7,6 @@ The tweet content can be downloaded with the `download_tweets.py` file, released
 
 ## Use
 This corpus is freely available to the academic community. By downloading Twitter data, you agree to follow the current [Twitter terms of service](https://twitter.com/tos), which requires not to redistribute the tweet content and to delete tweets that are marked deleted in the future.
+
+## Contact
+Please email `ericbenz` at `brandeis` dot `edu` with questions or concerns.
