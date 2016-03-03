@@ -1,5 +1,5 @@
 # TwitterDrugs
-The TwitterDrugs corpus is a collection of publically available tweets that were mined from 26 January to 22 February 2016. All tweets originally returned by the search API screened automatically for relevancy, resulting in a loss of over 75% of the originally mined data.
+The TwitterDrugs corpus is a collection of 166,551 publically available tweets that were mined from 26 January to 26 February 2016, containing over 2.5 million tokens. Approximately 780,000 tweets were originally returned by the Twitter search API before being screened for relevancy for final inclusion, resulting in a loss of nearly 76% of the originally mined data.
 
 The `relevant.ids` file contains tweet IDs, user IDs, and the drug that was used to identify that tweet for relevance. The drugs are listed in the `drugs.txt` file.
 
